@@ -1,0 +1,1410 @@
+items[""] = {
+	Rarity = "Untiered",
+	Quote = "",
+	Desc = "",
+	Category = {  },
+	ID = "AffixStorm",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "",
+	}
+items["SS2_EQUIP_AFFIXULTRA_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "",
+	Desc = "SS2_EQUIP_AFFIXULTRA_DESC",
+	Category = {  },
+	ID = "AffixUltra",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_EQUIP_AFFIXULTRA",
+	}
+items["Armed Backpack"] = {
+	Rarity = "Common",
+	Quote = "Fire a missile on taking heavy damage.",
+	Desc = "Chance on taking damage to fire a missile for {{Color|d|400%}} {{Stack|(+400% per stack)}} base damage. Chance scales with damage taken.",
+	Category = { "Damage","AIBlacklist","CanBeTemporary" },
+	ID = "ArmedBackpack",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_ARMEDBACKPACK",
+	Expansion = "S2",
+	}
+items["Blast Knuckles"] = {
+	Rarity = "Uncommon",
+	Quote = "Your attacks create explosions at close range.",
+	Desc = "Hits from your {{Color|u|skills}} within {{Color|d|13m}} also {{Color|d|blast}} enemies in a cone for {{Color|d|500%}} {{Stack|(+500% per stack)}} base damage. You can hold up to {{Color|u|5}} charges and reload a charge every {{Color|u|5}} seconds.",
+	Category = { "Damage","CanBeTemporary" },
+	ID = "BlastKnuckles",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_BLASTKNUCKLES",
+	Unlock = "One Punch",
+	Expansion = "S2",
+	}
+items["Bleedout"] = {
+	Rarity = "Untiered",
+	Quote = "Upon dying, instead enter a bleedout state. Recharges over time.",
+	Desc = "Upon taking {{Color|hp|lethal damage}}, instead bleed out for {{Color|hp|100%}} of your {{Color|hp|maximum health}}. Recharges every {{Color|u|4}} minutes {{Stack|(-20% per stack)}}.",
+	Category = { "Utility" },
+	ID = "Bleedout",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_BLEEDOUT",
+	}
+items["Broken Blood Tester"] = {
+	Rarity = "Common",
+	Quote = "Periodically heal based on gold.",
+	Desc = "Every 30 seconds, rapidly {{Color|h|heal}} for {{Color|h|15 {{Stack|(+15 per stack)}} health}} for every {{Color|u|25 gold}} you currently have. {{Color|u|Scales with time.}}",
+	Category = { "Healing","CanBeTemporary" },
+	ID = "BloodTester",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_BLOODTESTER",
+	Unlock = "Medic!",
+	Expansion = "S2",
+	}
+items["SS2_ITEM_BOOSTCHARACTERSIZE_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_BOOSTCHARACTERSIZE_PICKUP",
+	Desc = "SS2_ITEM_BOOSTCHARACTERSIZE_DESC",
+	Category = {  },
+	ID = "BoostCharacterSize",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_BOOSTCHARACTERSIZE",
+	}
+items["SS2_ITEM_BOOSTCOOLDOWNS_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_BOOSTCOOLDOWNS_PICKUP",
+	Desc = "SS2_ITEM_BOOSTCOOLDOWNS_DESC",
+	Category = {  },
+	ID = "BoostCooldowns",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_BOOSTCOOLDOWNS",
+	}
+items["SS2_ITEM_BOOSTMOVESPEED_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_BOOSTMOVESPEED_PICKUP",
+	Desc = "SS2_ITEM_BOOSTMOVESPEED_DESC",
+	Category = {  },
+	ID = "BoostMovespeed",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_BOOSTMOVESPEED",
+	}
+items["Chirr's Friendship"] = {
+	Rarity = "Untiered",
+	Quote = "frens with bug :)",
+	Desc = "frens with bug :)",
+	Category = { "CannotDuplicate","CannotCopy","CannotSteal","BrotherBlacklist","AIBlacklist" },
+	ID = "ChirrFriendHelper",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_CHIRRHELPER",
+	}
+items["Coffee Bag"] = {
+	Rarity = "Common",
+	Quote = "Drop coffee beans that boost attack and movement speed.",
+	Desc = "{{Color|d|10%}} chance on hit to drop a coffee bean that grants {{Color|d|8% attack speed}} and {{Color|u|movement speed}} for {{Color|u|6}} {{Color|u|seconds}}. Maximum cap of {{Color|d|40%{{Stack| (+40% per stack)}}}}.",
+	Category = { "Damage","Utility","AIBlacklist","CanBeTemporary" },
+	ID = "CoffeeBag",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_COFFEEBAG",
+	Unlock = "Caffeinated",
+	Expansion = "S2",
+	}
+items["SS2_ITEM_COGNATION_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_COGNATION_PICKUP",
+	Desc = "SS2_ITEM_COGNATION_DESC",
+	Category = { "BrotherBlacklist","CannotSteal","CannotCopy" },
+	ID = "CognationHelper",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_COGNATION",
+	Expansion = "S2",
+	}
+items["Cryptic Source"] = {
+	Rarity = "Uncommon",
+	Quote = "Sprinting charges up a damaging burst of energy.",
+	Desc = "Upon ending your sprint, unleash a {{Color|d|burst of energy}} in a {{Color|d|15m}} {{Stack|(+3m per stack)}} radius for {{Color|d|250%}} {{Stack|(+250% per stack)}} base damage.",
+	Category = { "Damage","SprintRelated","CanBeTemporary" },
+	ID = "CrypticSource",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_CRYPTICSOURCE",
+	Expansion = "S2",
+	}
+items["DebuffMissiles"] = {
+	Rarity = "Untiered",
+	Quote = "Chance to fire a void shard on hit. Chance increases per debuff.",
+	Desc = "For each {{Color|d|debuff}} on an enemy, gain a {{Color|d|3%{{Stack| (+1% per stack)}}}} chance to fire a void shard for {{Color|d|400%}} TOTAL damage.",
+	Category = {  },
+	ID = "DebuffMissiles",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_DEBUFFMISSILES",
+	}
+items["Detritive Trematode"] = {
+	Rarity = "Common",
+	Quote = "Low health enemies receive damage over time until death.",
+	Desc = "Enemies under {{Color|d|25% {{Stack|(+10% per stack)}} health}} are {{Color|d|infested}} for {{Color|d|100%}} base damage {{Stack|(+100% per stack)}} per second.",
+	Category = { "Damage","AIBlacklist" },
+	ID = "DetritiveTrematode",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_DETRITIVETREMATODE",
+	Expansion = "S2",
+	}
+items["Empty Diary"] = {
+	Rarity = "Common",
+	Quote = "Level up when entering a stage. Consumed on use.",
+	Desc = "When entering a stage, {{Color|u|gain 3 levels}} and {{Color|u|consume this item.}}",
+	Category = { "Utility","AIBlacklist","BrotherBlacklist","OnStageBeginEffect" },
+	ID = "Diary",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_DIARY",
+	Unlock = "Dear Diary...",
+	Expansion = "S2",
+	}
+items["Written Diary"] = {
+	Rarity = "Untiered",
+	Quote = "They'll totally make a movie out of this.",
+	Desc = "They'll totally make a movie out of this.",
+	Category = { "AIBlacklist","BrotherBlacklist","CannotSteal","CannotCopy","CannotDuplicate" },
+	ID = "DiaryConsumed",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_DIARY_CONSUMED",
+	Unlock = "Dear Diary...",
+	Expansion = "S2",
+	}
+items["SS2_ITEM_DOUBLEALLSTATS_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_DOUBLEALLSTATS_PICKUP",
+	Desc = "SS2_ITEM_DOUBLEALLSTATS_DESC",
+	Category = {  },
+	ID = "DoubleAllStats",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_DOUBLEALLSTATS",
+	Expansion = "S2",
+	}
+items["Droid Head"] = {
+	Rarity = "Legendary",
+	Quote = "Spawn a temporary drone upon killing an elite enemy.",
+	Desc = "Killing an elite enemy spawns a {{Color|d|Security Drone}} {{Stack|(+100% base damage per stack)}} for {{Color|d|20s}} {{Stack|(+10s per stack)}}. Spawned drones {{Color|u|inherit the elite type}} of the slain elite.",
+	Category = { "Damage","OnKillEffect" },
+	ID = "DroidHead",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_DROIDHEAD",
+	Expansion = "S2",
+	}
+items["EliteDamageBonus"] = {
+	Rarity = "Untiered",
+	Quote = "Reduce the cooldowns of your skills when attacking elite monsters.",
+	Desc = "Hitting an elite monster with a {{Color|u|skill}} has a {{Color|u|30%}} {{Stack|(+10% per stack)}} chance to {{Color|u|reduce your cooldowns}} by {{Color|u|0.5}} seconds.",
+	Category = {  },
+	ID = "EliteDamageBonus",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_ELITEDAMAGEBONUS",
+	}
+items["Erratic Gadget"] = {
+	Rarity = "Legendary",
+	Quote = "Lightning strikes twice.",
+	Desc = "Your lightning strikes {{Color|d|twice}}. {{Color|d|10%}} chance on hit to fire {{Color|d|chain lightning}} for {{Color|d|300%}} TOTAL damage on up to {{Color|d|1}} {{Stack|(+1 per stack)}} targets.",
+	Category = { "Damage","CanBeTemporary" },
+	ID = "ErraticGadget",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_ERRATICGADGET",
+	Unlock = "Lord of Lightning",
+	Expansion = "S2",
+	}
+items[""] = {
+	Rarity = "Untiered",
+	Quote = "",
+	Desc = "",
+	Category = { "CannotSteal","CannotDuplicate" },
+	ID = "EtherealItemAffix",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "",
+	}
+items["Field Accelerator"] = {
+	Rarity = "Uncommon",
+	Quote = "Killing enemies reduces Teleporter charge time and increases teleporter range.",
+	Desc = "After defeating the boss, the radius of the Teleporter is increased by {{Color|u|20%}} {{Stack|(+20% per stack)}} and killing enemies grants {{Color|u|+1%}} {{Color|u|teleporter charge}}.",
+	Category = { "Utility","OnKillEffect","AIBlacklist","HoldoutZoneRelated","CannotCopy" },
+	ID = "FieldAccelerator",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_FIELDACCELERATOR",
+	Unlock = "Going Long",
+	Expansion = "S2",
+	}
+items["SS2_ITEM_FLOWERTURRET_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_FLOWERTURRET_PICKUP",
+	Desc = "SS2_ITEM_FLOWERTURRET_DESC",
+	Category = {  },
+	ID = "FlowerTurret",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_FLOWERTURRET",
+	Expansion = "S2",
+	}
+items["Fork"] = {
+	Rarity = "Common",
+	Quote = "Deal more damage.",
+	Desc = "Increase your base damage by {{Color|d|8%}} {{Stack|(+8% per stack)}}.",
+	Category = { "Damage","CanBeTemporary" },
+	ID = "Fork",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_FORK",
+	Expansion = "S2",
+	}
+items["Galvanic Core"] = {
+	Rarity = "Legendary",
+	Quote = "Stunned enemies apply a debuff to nearby enemies.",
+	Desc = "{{Color|u|10%}} {{Stack|(+10 per stack)}} chance on hit to {{Color|u|stun}}. Stunned enemies apply {{Color|u|razed}} to enemies within {{Color|u|15m}} {{Stack|(+5m per stack)}}, reducing their {{Color|h|maximum health}} by {{Color|h|20%}}, {{Color|d|damage}} by {{Color|d|30%}}, and {{Color|u|movement speed}} by {{Color|u|80%}}.",
+	Category = { "Utility","Damage","AIBlacklist" },
+	ID = "GalvanicCore",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_GALVANICCORE",
+	Expansion = "S2",
+	}
+items["Green Chocolate"] = {
+	Rarity = "Legendary",
+	Quote = "Reduce damage taken and gain a huge damage and critical chance bonus upon taking heavy damage.",
+	Desc = "When damaged for at least {{Color|hp|20%}} of your max HP, the excess damage is reduced by {{Color|d|50%}}, and also gain a buff that grants {{Color|d|+50%}} base damage and {{Color|d|+20%}} critical chance for {{Color|d|6s}} {{Stack|(+3s per stack)}}. ",
+	Category = { "Utility","Damage" },
+	ID = "GreenChocolate",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_GREENCHOCOLATE",
+	Expansion = "S2",
+	}
+items["Guarding Amulet"] = {
+	Rarity = "Common",
+	Quote = "Reduce damage taken from behind",
+	Desc = "Reduce damage taken from behind by {{Color|d|30%}} {{Stack|(+30% per stack)}}",
+	Category = { "Utility","CanBeTemporary" },
+	ID = "GuardingAmulet",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_GUARDINGAMULET",
+	Expansion = "S2",
+	}
+items["SS2_ITEM_DECAYREGEN_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_DECAYREGEN_PICKUP",
+	Desc = "SS2_ITEM_DECAYREGEN_DESC",
+	Category = {  },
+	ID = "HealthDecayWithRegen",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_DECAYREGEN",
+	}
+items["HitList"] = {
+	Rarity = "Untiered",
+	Quote = "Attack marked enemies to gain gold, and a permanent damage boost on kill.",
+	Desc = "Every {{Color|u|30}} {{Stack|(-20% per stack)}} seconds, {{Color|d|mark}} an enemy. Killing {{Color|d|marked}} enemies increases your {{Color|d|damage permanently}} by {{Color|d|2%}}.",
+	Category = {  },
+	ID = "HitList",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_HITLIST",
+	}
+items["Hunter's Sigil"] = {
+	Rarity = "Uncommon",
+	Quote = "Standing still grants bonus armor and damage.",
+	Desc = "After {{Color|u|standing still}} for at least 1 second, create a {{Color|u|8m zone}} granting {{Color|u|30}} armor {{Stack|(+15 armor per stack)}} and {{Color|d|30%}} increased damage {{Stack|(+15% per stack)}}. {{Color|u|The zone lasts until you leave it}}.",
+	Category = { "Damage","Utility","CanBeTemporary" },
+	ID = "HuntersSigil",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_HUNTERSSIGIL",
+	Unlock = "Hunter's Strike",
+	Expansion = "S2",
+	}
+items["Ice Tool"] = {
+	Rarity = "Common",
+	Quote = "Gain a jump while touching a wall",
+	Desc = "While {{Color|u|touching a wall}}, gain {{Color|u|+1}} {{Stack|(+1 per stack)}} extra jump.",
+	Category = { "Utility","AIBlacklist" },
+	ID = "IceTool",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_ICETOOL",
+	Expansion = "S2",
+	}
+items["Insecticide"] = {
+	Rarity = "Legendary",
+	Quote = "Poison enemies on hit.",
+	Desc = "{{Color|d|100%}} chance to {{Color|d|poison}} an enemy for {{Color|d|180%}} {{Stack|(+180% per stack)}} base damage.",
+	Category = { "Damage" },
+	ID = "Insecticide",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_INSECTICIDE",
+	Unlock = "Pest Control",
+	Expansion = "S2",
+	}
+items["ItemOnBossKill"] = {
+	Rarity = "Untiered",
+	Quote = "Bosses drop items.",
+	Desc = "Bosses drop an {{Color|u|item}} on kill. {{Stack|(Item rarity increases per stack)}}",
+	Category = {  },
+	ID = "ItemOnBossKill",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_ITEMONBOSSKILL",
+	}
+items["ItemOnEliteKill"] = {
+	Rarity = "Untiered",
+	Quote = "Elites drop items.",
+	Desc = "Elites have a {{Color|u|6%}}{{Stack| (+2% per stack)}} chance to drop an {{Color|u|item}} on kill.",
+	Category = {  },
+	ID = "ItemOnEliteKill",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_ITEMONELITEKILL",
+	}
+items["Prototype Jet Boots"] = {
+	Rarity = "Uncommon",
+	Quote = "Gain an explosive jump!",
+	Desc = "Gain {{Color|u|+1 extra jump}} that {{Color|d|ignites}} enemies for {{Color|d|500%}} base damage in a {{Color|d|7.5m}} {{Stack|(+5m per stack)}} radius. Recharges {{Color|u|5}} seconds after landing.",
+	Category = { "Damage","AIBlacklist","CanBeTemporary" },
+	ID = "JetBoots",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_JETBOOTS",
+	Expansion = "S2",
+	}
+items["Man-o'-War"] = {
+	Rarity = "Uncommon",
+	Quote = "Discharge electricity on kill.",
+	Desc = "On killing an enemy, create an {{Color|d|electric discharge}} for {{Color|d|200% base damage}} on up to {{Color|d|3}} {{Stack|(+2 per stack)}} targets within {{Color|d|20m}} {{Stack|(+4m per stack)}} meters.",
+	Category = { "Damage","OnKillEffect","CanBeTemporary" },
+	ID = "LightningOnKill",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_LIGHTNINGONKILL",
+	Expansion = "S2",
+	}
+items["Low Quality Speakers"] = {
+	Rarity = "Uncommon",
+	Quote = "Stun nearby enemies when taking damage.",
+	Desc = "Chance when getting hit to {{Color|d|stun}} enemies in a {{Color|d|13m}} {{Stack|(+7m per stack)}} radius. Chance starts at {{Color|d|10%}} and increases with {{Color|hp|low health}}.",
+	Category = { "Utility","AIBlacklist","CanBeTemporary" },
+	ID = "LowQualitySpeakers",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_LOWQUALITYSPEAKERS",
+	Expansion = "S2",
+	}
+items["Malice"] = {
+	Rarity = "Common",
+	Quote = "Attacks spread damage to nearby enemies.",
+	Desc = "Your attacks deal {{Color|d|25%}} TOTAL damage to up to {{Color|d|1}} {{Stack|(+1 per stack)}} additional enemies within {{Color|d|12m}} {{Stack|(+2.4m per stack)}}.",
+	Category = { "Damage","CanBeTemporary" },
+	ID = "Malice",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_MALICE",
+	Unlock = "Malicious",
+	Expansion = "S2",
+	}
+items["SS2_ITEM_BOOSTMOVESPEED_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_BOOSTMOVESPEED_PICKUP",
+	Desc = "SS2_ITEM_BOOSTMOVESPEED_DESC",
+	Category = {  },
+	ID = "MaxHealthPerMinute",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_BOOSTMOVESPEED",
+	}
+items["MaxHpOnKill"] = {
+	Rarity = "Untiered",
+	Quote = "Killing an enemy permanently increases your maximum health.",
+	Desc = "Killing an enemy increases your {{Color|h|health permanently}} by {{Color|h|2}} {{Stack|(+1 per stack)}}.",
+	Category = {  },
+	ID = "MaxHpOnKill",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_MAXHPONKILL",
+	}
+items["Molten Coin"] = {
+	Rarity = "Common",
+	Quote = "Chance to burn and gain gold on hit.",
+	Desc = "{{Color|d|6%}} chance to {{Color|d|ignite}} enemies on hit for {{Color|d|200%}} base damage {{Stack|(+200% per stack)}} and earn {{Color|u|$1}} {{Stack|(+$1 per stack)}}. {{Color|u|Scales over time}}.",
+	Category = { "Damage","Utility","CanBeTemporary" },
+	ID = "MoltenCoin",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_MOLTENCOIN",
+	Expansion = "S2",
+	}
+items["SS2_ITEM_MULTIELITE_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_MULTIELITE_PICKUP",
+	Desc = "SS2_ITEM_MULTIELITE_DESC",
+	Category = {  },
+	ID = "MultiElite",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_MULTIELITE",
+	}
+items["Needles"] = {
+	Rarity = "Common",
+	Quote = "Chance to expose enemies to guaranteed critical strikes.",
+	Desc = "{{Color|d|+4% chance}} on hit to guarantee {{Color|d|critical strikes}} on an enemy for the next {{Color|d|3}} {{Stack|(+3 per stack)}} hits.",
+	Category = { "Damage","CanBeTemporary" },
+	ID = "Needles",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_NEEDLES",
+	Expansion = "S2",
+	}
+items["SS2_NEMBOSS_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_NEMBOSS_PICKUP",
+	Desc = "SS2_NEMBOSS_DESC",
+	Category = { "CannotSteal","CannotCopy" },
+	ID = "NemBossHelper",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_NEMBOSS",
+	Expansion = "S2",
+	}
+items["Nkota's Heritage"] = {
+	Rarity = "Legendary",
+	Quote = "Receive an item upon level up.",
+	Desc = "Receive {{Color|u|1}} {{Stack|(+1 per stack)}} {{Color|u|items}} upon level up. Rarity of items increases with level.",
+	Category = { "Utility","AIBlacklist","CanBeTemporary" },
+	ID = "NkotasHeritage",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_NKOTASHERITAGE",
+	Unlock = "Collector",
+	Expansion = "S2",
+	}
+items["SS2_ITEM_NOSELFDAMAGE_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_NOSELFDAMAGE_PICKUP",
+	Desc = "SS2_ITEM_NOSELFDAMAGE_DESC",
+	Category = {  },
+	ID = "NoSelfDamage",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_NOSELFDAMAGE",
+	}
+items["Neurotoxin Gland"] = {
+	Rarity = "Uncommon",
+	Quote = "Debuffs make enemies miss their attacks.",
+	Desc = "{{Color|u|Daze}} enemies on hit for {{Color|u|2}} {{Stack|(+2 per stack)}} seconds, making them miss {{Color|u|15%}} of their attacks for each {{Color|d|debuff}} they have.",
+	Category = { "Utility","CanBeTemporary" },
+	ID = "PoisonousGland",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_POISONOUSGLAND",
+	Unlock = "Sooo Toxic",
+	Expansion = "S2",
+	}
+items["Portable Reactor"] = {
+	Rarity = "Legendary",
+	Quote = "Become invincible when entering a stage.",
+	Desc = "Gain {{Color|u|full invulnerability}} and {{Color|u|100% movement speed}} for the first {{Color|u|80s}} {{Stack|(+40s per stack)}} of a stage.",
+	Category = { "Utility","OnStageBeginEffect","AIBlacklist" },
+	ID = "PortableReactor",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_PORTABLEREACTOR",
+	Expansion = "S2",
+	}
+items["Primal Birthright"] = {
+	Rarity = "Lunar",
+	Quote = "Grants a Legendary Chest on each stage, {{Color|hp|but you cannot leave without claiming your birthright}}.",
+	Desc = "Grants {{Color|u|1}} {{Stack|(+1 per stack)}} Legendary Chest {{Color|u|on each stage}}, {{Color|hp|but you cannot leave without claiming your birthright}}.",
+	Category = { "OnStageBeginEffect","AIBlacklist","Utility","InteractableRelated" },
+	ID = "PrimalBirthright",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_PRIMAL_BIRTHRIGHT",
+	Expansion = "S2",
+	}
+items["Rainbow Root"] = {
+	Rarity = "Uncommon",
+	Quote = "A portion of prevented damage is gained as barrier.",
+	Desc = "Gain {{Color|u|3}} orbiting branches. After taking damage equal to or more than 25% of max health, a branch breaks, granting 25% of max health as barrier. Branches recharge after 20s.",
+	Category = { "Utility","CanBeTemporary" },
+	ID = "RainbowRoot",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_RAINBOWROOT",
+	Expansion = "S2",
+	}
+items["Relic of Extinction"] = {
+	Rarity = "Untiered",
+	Quote = "A black hole follows you that deals extreme damage, BUT it can damage you.",
+	Desc = "WIP DESC",
+	Category = { "Damage" },
+	ID = "RelicOfExtinction",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_RELICOFEXTINCTION",
+	Expansion = "S2",
+	}
+items["Relic of Force"] = {
+	Rarity = "Lunar",
+	Quote = "All attacks strike an additional time. {{Color|hp|Lowered attack speed and increased skill cooldowns}}.",
+	Desc = "All attacks strike {{Color|d|1}} {{Stack|(+1 per stack)}} additional time for {{Color|d|5%}} TOTAL damage. {{Color|u|Consecutive strikes}} to the same enemy increase damage dealt by {{Color|d|5%}}, up to a maximum of {{Color|d|100%}} TOTAL damage dealt. {{Color|hp|Reduce attack speed and increase skill cooldowns by 40%}} {{Stack|(-40% per stack)}}.",
+	Category = { "Damage","CanBeTemporary" },
+	ID = "RelicOfForce",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_RELICOFFORCE",
+	Expansion = "S2",
+	}
+items["Relic of Mass"] = {
+	Rarity = "Lunar",
+	Quote = "Double your max health. {{Color|hp|Your movement has momentum}}.",
+	Desc = "{{Color|h|Increase maximum health}} by {{Color|h|100%}} {{Stack|(+100% per stack)}}. {{Color|hp|Reduce acceleration and deceleration}} by a factor of {{Color|hp|8}} {{Stack|(+8 per stack)}}.",
+	Category = { "Healing","CanBeTemporary" },
+	ID = "RelicOfMass",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_RELICOFMASS",
+	Expansion = "S2",
+	}
+items["Relic of Termination"] = {
+	Rarity = "Lunar",
+	Quote = "Every 30 seconds, mark an enemy and strengthen them. If defeated in time, they drop an item; if not, they drop nothing.",
+	Desc = "Every {{Color|u|30 seconds}}, grants a buff which {{Color|d|marks}} the next spawning enemy. If defeated within {{Color|u|30 seconds}} {{Stack|(-10% per stack)}}, they {{Color|d|drop an item}} {{Stack|(item rarity scales with stacks)}}; if not, they drop {{Color|d|nothing}} and delay the next mark. {{Color|hp|Marked enemies have significantly increased stats}}.",
+	Category = { "Utility","AIBlacklist" },
+	ID = "RelicOfTermination",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_RELICOFTERMINATION",
+	Expansion = "S2",
+	}
+items["Remuneration"] = {
+	Rarity = "Untiered",
+	Quote = "<link="textWavy">... At what cost?...</link>",
+	Desc = "A {{Color|u|choice}} between three {{Color|hp|powerful items}} appears at the {{Color|u|start of each stage}}.",
+	Category = { "WorldUnique","AIBlacklist","BrotherBlacklist","OnStageBeginEffect" },
+	ID = "Remuneration",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_REMUNERATION",
+	Expansion = "S2",
+	}
+items["Scavenger's Fortune"] = {
+	Rarity = "Boss",
+	Quote = "WIP PICKUP",
+	Desc = "WIP DESC",
+	Category = { "Utility","Damage" },
+	ID = "ScavengersFortune",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SCAVENGERSFORTUNE",
+	Expansion = "S2",
+	}
+items["ScrapFromChest"] = {
+	Rarity = "Untiered",
+	Quote = "Chests drop extra scrap.",
+	Desc = "Chests have a {{Color|u|33%}}{{Stack| (+11% per stack) }}chance to drop extra {{Color|u|scrap}}.",
+	Category = {  },
+	ID = "ScrapFromChest",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SCRAPFROMCHEST",
+	}
+items["Haunted Lamp"] = {
+	Rarity = "Boss",
+	Quote = "Fire a haunted projectile every 5 primary uses.",
+	Desc = "Every {{Color|d|5 primary uses}}, fire a haunted projectile for {{Color|d|200%}} {{Stack|(+200% per stack)}} base damage.",
+	Category = { "Damage","CanBeTemporary" },
+	ID = "ShackledLamp",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHACKLEDLAMP",
+	Expansion = "S2",
+	}
+items["SS2_ITEM_SHARDEARTH_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_SHARDEARTH_PICKUP",
+	Desc = "SS2_ITEM_SHARDEARTH_DESC",
+	Category = {  },
+	ID = "ShardEarth",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHARDEARTH",
+	}
+items["SS2_ITEM_SHARDFIRE_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_SHARDFIRE_PICKUP",
+	Desc = "SS2_ITEM_SHARDFIRE_DESC",
+	Category = {  },
+	ID = "ShardFire",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHARDFIRE",
+	}
+items["SS2_ITEM_SHARDGOLD_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_SHARDGOLD_PICKUP",
+	Desc = "SS2_ITEM_SHARDGOLD_DESC",
+	Category = {  },
+	ID = "ShardGold",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHARDGOLD",
+	}
+items["SS2_ITEM_SHARDICE_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_SHARDICE_PICKUP",
+	Desc = "SS2_ITEM_SHARDICE_DESC",
+	Category = {  },
+	ID = "ShardIce",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHARDICE",
+	}
+items["SS2_ITEM_SHARDLIGHTNING_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_SHARDLIGHTNING_PICKUP",
+	Desc = "SS2_ITEM_SHARDLIGHTNING_DESC",
+	Category = {  },
+	ID = "ShardLightning",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHARDLIGHTNING",
+	}
+items["SS2_ITEM_SHARDSCAV_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_SHARDSCAV_PICKUP",
+	Desc = "SS2_ITEM_SHARDSCAV_DESC",
+	Category = {  },
+	ID = "ShardScav",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHARDSCAV",
+	}
+items["SS2_ITEM_SHARDVOID_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_SHARDVOID_PICKUP",
+	Desc = "SS2_ITEM_SHARDVOID_DESC",
+	Category = {  },
+	ID = "ShardVoid",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHARDVOID",
+	}
+items["ShellPiece"] = {
+	Rarity = "Untiered",
+	Quote = "Block lethal damage. Recharges each stage.",
+	Desc = "Upon taking {{Color|hp|lethal damage}}, instead become {{Color|u|invulnerable}} for {{Color|u|3}} seconds. Recharges each stage.",
+	Category = {  },
+	ID = "ShellPiece",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHELLPIECE",
+	}
+items["SS2_ITEM_SHELLPIECECONSUMED_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_SHELLPIECECONSUMED_PICKUP",
+	Desc = "SS2_ITEM_SHELLPIECECONSUMED_DESC",
+	Category = {  },
+	ID = "ShellPieceConsumed",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHELLPIECECONSUMED",
+	}
+items["ShieldGate"] = {
+	Rarity = "Untiered",
+	Quote = "Killing an enemy permanently increases your shield.",
+	Desc = "Killing an enemy increases your {{Color|u|shield permanently}} by {{Color|u|2}} {{Stack|(+1 per stack)}}.",
+	Category = {  },
+	ID = "ShieldGate",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SHIELDGATE",
+	}
+items["SnakeEyes"] = {
+	Rarity = "Untiered",
+	Quote = "Shrines grant permanent critical chance. Critical chance over 100% has a chance to reduce your cooldowns.",
+	Desc = "Using a Shrine increases your {{Color|d|critical chance permanently}} by {{Color|d|2%{{Stack| (+1% per stack)}}}}. {{Color|d|Critical chance}} over {{Color|d|100%}} grants a chance to {{Color|u|reduce your cooldowns}} by {{Color|u|1}} second.",
+	Category = {  },
+	ID = "SnakeEyes",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SNAKEEYES",
+	}
+items["SS2_ITEM_STACKHITLIST_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_STACKHITLIST_PICKUP",
+	Desc = "SS2_ITEM_STACKHITLIST_DESC",
+	Category = {  },
+	ID = "StackHitList",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_STACKHITLIST",
+	}
+items["SS2_ITEM_STACKMAXHPONKILL_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_STACKMAXHPONKILL_PICKUP",
+	Desc = "SS2_ITEM_STACKMAXHPONKILL_DESC",
+	Category = {  },
+	ID = "StackMaxHpOnKill",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_STACKMAXHPONKILL",
+	}
+items["SS2_ITEM_STACKSHIELDGATE_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_STACKSHIELDGATE_PICKUP",
+	Desc = "SS2_ITEM_STACKSHIELDGATE_DESC",
+	Category = {  },
+	ID = "StackShieldGate",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_STACKSHIELDGATE",
+	}
+items["SS2_ITEM_STACKSNAKEEYES_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_ITEM_STACKSNAKEEYES_PICKUP",
+	Desc = "SS2_ITEM_STACKSNAKEEYES_DESC",
+	Category = {  },
+	ID = "StackSnakeEyes",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_STACKSNAKEEYES",
+	}
+items["Sticky Overloader"] = {
+	Rarity = "Uncommon",
+	Quote = "Your attacks charge up a living bomb.",
+	Desc = "{{Color|d|5%}} chance to attach a {{Color|d|living bomb}} that gains {{Color|d|100%}} {{Stack|(+80% per stack)}} base damage and a {{Color|d|0.6m}} blast radius per hit, up to {{Color|u|20}} {{Stack|(+5 per stack)}} times. The bomb explodes after {{Color|d|1}} second without growing.",
+	Category = { "Damage","CanBeTemporary" },
+	ID = "StickyOverloader",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_STICKYOVERLOADER",
+	Unlock = "Overloaded",
+	Expansion = "S2",
+	}
+items["Stirring Soul"] = {
+	Rarity = "Untiered",
+	Quote = "<link="textWavy">What am I fighting for?</link>",
+	Desc = "Slain monsters leave a {{Color|u|soul}} which has a {{Color|u|0.5%}} {{Stack|(+0.5% per unsuccessful roll, resetting on success)}} chance to {{Color|u|spawn an item}} on pickup.",
+	Category = { "WorldUnique","AIBlacklist","BrotherBlacklist","OnKillEffect" },
+	ID = "StirringSoul",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_STIRRINGSOUL",
+	Expansion = "S2",
+	}
+items["Strange Can"] = {
+	Rarity = "Uncommon",
+	Quote = "Chance to intoxicate enemies, causing damage over time. Killing intoxicated enemies heals you.",
+	Desc = "{{Color|d|10%}} {{Stack|(+5% per stack)}} chance on hit to {{Color|d|intoxicate}} an enemy dealing {{Color|d|50% damage per second}}. {{Color|d|Intoxicate}} stacks up to 10 times. Killing enemies {{Color|h|heals}} for {{Color|h|10}} {{Stack|(+5 per stack)}} {{Color|h|health}} per stack of {{Color|d|intoxicate}}.",
+	Category = { "Damage","Healing","OnKillEffect","CanBeTemporary" },
+	ID = "StrangeCan",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_STRANGECAN",
+	Unlock = "Another Bite",
+	Expansion = "S2",
+	}
+items["Swift Skateboard"] = {
+	Rarity = "Legendary",
+	Quote = "Sprint in any direction. Using skills makes you move faster.",
+	Desc = "{{Color|u|Sprint}} in {{Color|u|any direction}}. Using a {{Color|u|skill}} grants a buff which provides {{Color|u|+20%}} {{Stack|(+15% per stack)}} {{Color|u|movement speed}} for {{Color|u|6}} seconds, up to {{Color|u|4}} stacks.",
+	Category = { "Utility","SprintRelated" },
+	ID = "SwiftSkateboard",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_SKATEBOARD",
+	Expansion = "S2",
+	}
+items["SS2_NEMBOSS_NAME"] = {
+	Rarity = "Untiered",
+	Quote = "SS2_NEMBOSS_PICKUP",
+	Desc = "SS2_NEMBOSS_DESC",
+	Category = { "CannotSteal","CannotCopy" },
+	ID = "TerminationHelper",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_NEMBOSS",
+	Expansion = "S2",
+	}
+items["Universal Charger"] = {
+	Rarity = "Common",
+	Quote = "Periodically refresh a skill on activation.",
+	Desc = "Every {{Color|u|18 seconds}} {{Stack|(-10% per stack)}}, instantly {{Color|u|refresh the cooldown}} of your next {{Color|u|non-Primary skill}}.",
+	Category = { "Utility" },
+	ID = "UniversalCharger",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_UNIVERSALCHARGER",
+	Unlock = "tRet 12 Pro Max Plus",
+	Expansion = "S2",
+	}
+items["Uranium Horseshoe"] = {
+	Rarity = "Common",
+	Quote = "Run faster, jump higher.",
+	Desc = "Increases {{Color|u|movement speed}} and {{Color|u|jump height}} by {{Color|u|10%}} {{Stack|(+10% per stack)}}.",
+	Category = { "Utility","CanBeTemporary" },
+	ID = "UraniumHorseshoe",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_URANIUMHORSESHOE",
+	Unlock = "Grand Prix",
+	Expansion = "S2",
+	}
+items["Condemned Bond"] = {
+	Rarity = "Untiered",
+	Quote = "<link="textWavy">We've been waiting.</link>",
+	Desc = "Be hunted by {{Color|hp|Nemesis Survivors}}.",
+	Category = { "WorldUnique","CannotDuplicate","CannotCopy" },
+	ID = "VoidRock",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_VOIDROCK",
+	}
+items["Watch Metronome"] = {
+	Rarity = "Uncommon",
+	Quote = "Charge up a movement speed boost while not sprinting.",
+	Desc = "While not sprinting, charge up to a {{Color|u|100%}} increase to {{Color|u|sprint speed}}. Decays over {{Color|u|5s}} {{Stack|(+3s per stack)}} seconds while sprinting.",
+	Category = { "Utility","SprintRelated","CanBeTemporary" },
+	ID = "WatchMetronome",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_WATCHMETRONOME",
+	Expansion = "S2",
+	}
+items["X-4 Stimulant"] = {
+	Rarity = "Common",
+	Quote = "Slightly decreases secondary skill cooldown and grants healing upon using it.",
+	Desc = "Reduces secondary skill cooldown by {{Color|u|10%}} {{Stack|(+10% per stack)}}. Using your secondary skill {{Color|h|increases base health regen}} by {{Color|h|+2 hp/s}} {{Stack|(+1 hp/s per stack)}} for {{Color|h|3}} seconds.",
+	Category = { "Utility","Healing","BrotherBlacklist" },
+	ID = "X4",
+	Stats = {
+		 {
+			Stat = "",
+			Value = "",
+			Stack = "",
+			Add = ""
+		}
+	},
+	LocalizationInternalName = "SS2_ITEM_X4",
+	Unlock = "Apex Predator",
+	Expansion = "S2",
+	}

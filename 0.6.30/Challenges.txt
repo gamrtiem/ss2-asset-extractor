@@ -1,0 +1,215 @@
+challenges["Trial of Cognation"] = {
+	Type = "Artifacts",
+	Unlock = { "Artifact of Cognation" } ,
+	Desc = "",
+	}
+challenges["Powered Up"] = {
+	Type = "Survivors",
+	Unlock = { "Cyborg" } ,
+	Desc = "Complete an Ethereal Teleporter event.",
+	}
+challenges["Flagbearer"] = {
+	Type = "Equipment",
+	Unlock = { "Greater Warbanner" } ,
+	Desc = "Carry 4 Warbanners at once.",
+	}
+challenges["One Punch"] = {
+	Type = "Items",
+	Unlock = { "Blast Knuckles" } ,
+	Desc = "As Loader, kill a teleporter boss in a single punch.",
+	}
+challenges["Medic!"] = {
+	Type = "Items",
+	Unlock = { "Broken Blood Tester" } ,
+	Desc = "Heal for 5,000 health in a single run.",
+	}
+challenges["Caffeinated"] = {
+	Type = "Items",
+	Unlock = { "Coffee Bag" } ,
+	Desc = "Reach +150% move speed and attack speed.",
+	}
+challenges["Even More Ethereal"] = {
+	Type = "",
+	Unlock = { "" } ,
+	Desc = "As Mercenary, complete 3 Ethereal teleporters in one run.",
+	}
+challenges["Dear Diary..."] = {
+	Type = "Items",
+	Unlock = { "Empty Diary" } ,
+	Desc = "Reach level 20.",
+	}
+challenges["Lord of Lightning"] = {
+	Type = "Items",
+	Unlock = { "Erratic Gadget" } ,
+	Desc = "Carry 5 items that create lightning.",
+	}
+challenges["Going Long"] = {
+	Type = "Items",
+	Unlock = { "Field Accelerator" } ,
+	Desc = "As Artificer, kill the Teleporter boss with a Nano-Bomb from 100m away.",
+	}
+challenges["Grand Prix"] = {
+	Type = "Items",
+	Unlock = { "Uranium Horseshoe" } ,
+	Desc = "As Bandit, complete stage 3 in less than 15 minutes on Typhoon difficulty.",
+	}
+challenges["Hunter's Strike"] = {
+	Type = "Items",
+	Unlock = { "Hunter's Sigil" } ,
+	Desc = "Deal 1,000 damage or more with a single critical strike.",
+	}
+challenges["Pest Control"] = {
+	Type = "Items",
+	Unlock = { "Insecticide" } ,
+	Desc = "As REX, kill an Elite Beetle Queen.",
+	}
+challenges["Malicious"] = {
+	Type = "Items",
+	Unlock = { "Malice" } ,
+	Desc = "Complete the Stage 3 Teleporter Event on Typhoon difficulty.",
+	}
+challenges["Collector"] = {
+	Type = "Items",
+	Unlock = { "Nkota's Heritage" } ,
+	Desc = "Carry 25 unique items in a single run.",
+	}
+challenges["Sooo Toxic"] = {
+	Type = "Items",
+	Unlock = { "Neurotoxin Gland" } ,
+	Desc = "As Acrid, poison 500 enemies.",
+	}
+challenges["Overloaded"] = {
+	Type = "Items",
+	Unlock = { "Sticky Overloader" } ,
+	Desc = "As MUL-T, collect 20 green items in a single run.",
+	}
+challenges["Another Bite"] = {
+	Type = "Items",
+	Unlock = { "Strange Can" } ,
+	Desc = "Inflict 6 debuffs at once to a single enemy.",
+	}
+challenges["tRet 12 Pro Max Plus"] = {
+	Type = "Items",
+	Unlock = { "Universal Charger" } ,
+	Desc = "As Engineer, kill 400 enemies with your turrets.",
+	}
+challenges["Apex Predator"] = {
+	Type = "Items",
+	Unlock = { "X-4 Stimulant" } ,
+	Desc = "As Huntress, kill 7 unique bosses in one run.",
+	}
+challenges["Nemesis Commando: Zandatsu"] = {
+	Type = "Skills",
+	Unlock = { "Decisive Strike" } ,
+	Desc = "As Nemesis Commando, apply 8 or more stacks of Gouge to a single target at once.",
+	}
+challenges["Nemesis Commando: The Ripper"] = {
+	Type = "Skills",
+	Unlock = { "Distant Gash" } ,
+	Desc = "As Nemesis Commando, reach 100% bleed chance.",
+	}
+challenges["Nemesis Mercenary: Grounded"] = {
+	Type = "Skills",
+	Unlock = { "Devitalize" } ,
+	Desc = "As Nemesis Mercenary, complete a stage without leaving the ground.",
+	}
+challenges["Nemesis Mercenary: Duped"] = {
+	Type = "Skills",
+	Unlock = { "Proliferate" } ,
+	Desc = "As Nemesis Mercenary, purchase a Duplicator Drone.",
+	}
+challenges["Nemesis Mercenary: Turncoat"] = {
+	Type = "Skills",
+	Unlock = { "Perforator" } ,
+	Desc = "As Nemesis Mercenary, defeat a different vestige.",
+	}
+challenges["Captain: Grand Mastery"] = {
+	Type = "Skins",
+	Unlock = { "Prestige" } ,
+	Desc = "As Captain, beat the game or obliterate on Typhoon or Harder.",
+	}
+challenges["Chirr: Mastery"] = {
+	Type = "",
+	Unlock = { "" } ,
+	Desc = "As Chirr, beat the game or obliterate on Monsoon or harder.",
+	}
+challenges["Commando: Grand Mastery"] = {
+	Type = "Skins",
+	Unlock = { "Nostalgic" } ,
+	Desc = "As Commando, beat the game or obliterate on Typhoon or Harder.",
+	}
+challenges["Commando: Lone Echo"] = {
+	Type = "Skins",
+	Unlock = { "Stealth" } ,
+	Desc = "As Commando, defeat Commando's Vestige.",
+	}
+challenges["Acrid: Grand Mastery"] = {
+	Type = "Skins",
+	Unlock = { "Weapon" } ,
+	Desc = "As Acrid, beat the game or obliterate on Typhoon or Harder.",
+	}
+challenges["Executioner: Grand Mastery"] = {
+	Type = "Skins",
+	Unlock = { "Electrocutioner" } ,
+	Desc = "As Executioner, beat the game or obliterate on Typhoon or harder.",
+	}
+challenges["Executioner: Mastery"] = {
+	Type = "Skins",
+	Unlock = { "Warrior" } ,
+	Desc = "As Executioner, beat the game or obliterate on Monsoon or harder.",
+	}
+challenges["Huntress: Grand Mastery"] = {
+	Type = "Skins",
+	Unlock = { "Clandestine" } ,
+	Desc = "As Huntress, beat the game or obliterate on Typhoon or Harder.",
+	}
+challenges["Mercenary: Vengeful Deserter"] = {
+	Type = "Skins",
+	Unlock = { "Heel" } ,
+	Desc = "As Mercenary, defeat Mercenary's Vestige.",
+	}
+challenges["Nemesis Commando: Grand Mastery"] = {
+	Type = "Skins",
+	Unlock = { "Minuano" } ,
+	Desc = "As Nemesis Commando, beat the game or obliterate on Typhoon or harder.",
+	}
+challenges["Nemesis Commmando: Mastery"] = {
+	Type = "Skins",
+	Unlock = { "Wasp" } ,
+	Desc = "As Nemesis Commando, beat the game or obliterate on Monsoon or harder.",
+	}
+challenges["Nemesis Commando: Cornered Gunslinger"] = {
+	Type = "Skins",
+	Unlock = { "Soldier" } ,
+	Desc = "As Nemesis Commando, defeat Commando's vestige.",
+	}
+challenges["Nemesis Mercenary: Grand Mastery"] = {
+	Type = "",
+	Unlock = { "" } ,
+	Desc = "As Nemesis Mercenary, beat the game or obliterate on Typhoon.",
+	}
+challenges["Nemesis Mercenary: Mastery"] = {
+	Type = "Skins",
+	Unlock = { "Rogue" } ,
+	Desc = "As Nemesis Mercenary, beat the game or obliterate on Monsoon or harder.",
+	}
+challenges["Nemesis Mercenary: Hired Blade"] = {
+	Type = "Skins",
+	Unlock = { "Honorable" } ,
+	Desc = "As Nemesis Mercenary, defeat Mercenary's vestige.",
+	}
+challenges["Competitive Exclusion Principle"] = {
+	Type = "Survivors",
+	Unlock = { "Chirr" } ,
+	Desc = "Slay an Empyrean elite.",
+	}
+challenges["Lone Echo"] = {
+	Type = "Survivors",
+	Unlock = { "Nemesis Commando" } ,
+	Desc = "Defeat Commando's Vestige.",
+	}
+challenges["Vengeful Deserter"] = {
+	Type = "Survivors",
+	Unlock = { "Nemesis Mercenary" } ,
+	Desc = "Defeat Mercenary's Vestige.",
+	}

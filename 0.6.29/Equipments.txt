@@ -1,0 +1,126 @@
+equipments["Harmony"] = {
+	Rarity = "Equipment",
+	Quote = "Become an aspect of existence.",
+	Desc = "SS2_EQUIP_AFFIXEMPYREAN_DESC",
+	ID = "AffixEmpyrean",
+	Cooldown = 0,
+	LocalizationInternalName = "SS2_EQUIP_AFFIXEMPYREAN",
+	Expansion = "S2",
+	}
+equipments["Unstable Remnant"] = {
+	Rarity = "Equipment",
+	Quote = "Become an aspect of the unknown.",
+	Desc = "SS2_EQUIP_AFFIXETHEREAL_DESC",
+	ID = "AffixEthereal",
+	Cooldown = 0,
+	LocalizationInternalName = "SS2_EQUIP_AFFIXETHEREAL",
+	Expansion = "S2",
+	}
+equipments["His Shining(?) or maybe Radiant(??) Passion"] = {
+	Rarity = "Equipment",
+	Quote = "Become a harbinger of earth.",
+	Desc = "SS2_EQUIP_AFFIXSUPEREARTH_DESC",
+	ID = "AffixSuperEarth",
+	Cooldown = 0,
+	LocalizationInternalName = "SS2_EQUIP_AFFIXSUPEREARTH",
+	Expansion = "S2",
+	}
+equipments["Royal Flame(?)"] = {
+	Rarity = "Equipment",
+	Quote = "Become a harbinger of fire.",
+	Desc = "SS2_EQUIP_AFFIXSUPERFIRE_DESC",
+	ID = "AffixSuperFire",
+	Cooldown = 0,
+	LocalizationInternalName = "SS2_EQUIP_AFFIXSUPERFIRE",
+	Expansion = "S2",
+	}
+equipments["Her Cosmic Brilliance"] = {
+	Rarity = "Equipment",
+	Quote = "Become a harbinger of ice.",
+	Desc = "SS2_EQUIP_AFFIXSUPERICE_DESC",
+	ID = "AffixSuperIce",
+	Cooldown = 0,
+	LocalizationInternalName = "SS2_EQUIP_AFFIXSUPERICE",
+	Expansion = "S2",
+	}
+equipments["Eye of the Storm (shouldnt this be stormborn?)"] = {
+	Rarity = "Equipment",
+	Quote = "Become a harbinger of lightning.",
+	Desc = "SS2_EQUIP_AFFIXSUPERLIGHTNING_DESC",
+	ID = "AffixSuperLightning",
+	Cooldown = 0,
+	LocalizationInternalName = "SS2_EQUIP_AFFIXSUPERLIGHTNING",
+	Expansion = "S2",
+	}
+equipments["Back Thruster"] = {
+	Rarity = "Equipment",
+	Quote = "Moving in a straight line rapidly builds up speed.",
+	Desc = "For 8 seconds, rapidly build up to {{Color|u|200 movement speed}} when moving in a straight line.",
+	ID = "BackThruster",
+	Cooldown = 25,
+	LocalizationInternalName = "SS2_EQUIP_BACKTHRUSTER",
+	Expansion = "S2",
+	}
+equipments["Cloaking Headband"] = {
+	Rarity = "Equipment",
+	Quote = "Become temporarily invisible and gain a speed boost.",
+	Desc = "Become {{Color|u|invisible}} and gain {{Color|u|+40% movement speed}} for 16 seconds.",
+	ID = "CloakingHeadband",
+	Cooldown = 45,
+	LocalizationInternalName = "SS2_EQUIP_CLOAKINGHEADBAND",
+	Expansion = "S2",
+	}
+equipments["Malignant Resolve"] = {
+	Rarity = "Equipment",
+	Quote = "Become an aspect of toxicity.",
+	Desc = "SS2_EQUIP_AFFIXPURPLE_DESC",
+	ID = "ElitePurpleEquipment",
+	Cooldown = 10,
+	LocalizationInternalName = "SS2_EQUIP_AFFIXPURPLE",
+	Expansion = "S2",
+	}
+equipments["SS2_EQUIP_DIVINERIGHT_NAME"] = {
+	Rarity = "Equipment",
+	Quote = "SS2_EQUIP_DIVINERIGHT_PICKUP",
+	Desc = "SS2_EQUIP_DIVINERIGHT_DESC",
+	ID = "equipDivineRight",
+	Cooldown = 18,
+	LocalizationInternalName = "SS2_EQUIP_DIVINERIGHT",
+	}
+equipments["Greater Warbanner"] = {
+	Rarity = "Equipment",
+	Quote = "Place a greater warbanner which boosts regen, critical hit chance, and lowers cooldowns.",
+	Desc = "Place a greater warbanner which grants {{Color|h|+50% health regeneration}}, {{Color|d|20% critical strike chance}}, and {{Color|u|50% skill cooldown reduction}}. Can place up to 1 at a time.",
+	ID = "GreaterWarbanner",
+	Cooldown = 55,
+	LocalizationInternalName = "SS2_EQUIP_GREATERWARBANNER",
+	Unlock = "Flagbearer",
+	Expansion = "S2",
+	}
+equipments["M.I.D.A.S."] = {
+	Rarity = "Equipment",
+	Quote = "Lose a portion of your current health, and gain that amount in gold.",
+	Desc = "Sacrifice {{Color|hp|50%}} of your {{Color|hp|current health}}, gaining either the amount of {{Color|hp|health lost}} or {{Color|u|the price of a standard chest}} as {{Color|u|gold}}, depending on which is higher.",
+	ID = "MIDAS",
+	Cooldown = 75,
+	LocalizationInternalName = "SS2_EQUIP_MIDAS",
+	Expansion = "S2",
+	}
+equipments["SS2_EQUIP_SEISMIC OSCILLATOR"] = {
+	Rarity = "Equipment",
+	Quote = "SS2_EQUIP_SEISMIC OSCILLATOR_PICKUP",
+	Desc = "SS2_EQUIP_SEISMIC OSCILLATOR_DESC",
+	ID = "SeismicOscillator",
+	Cooldown = 25,
+	LocalizationInternalName = "SS2_EQUIP_SEISMIC OSCILLATOR",
+	Expansion = "S2",
+	}
+equipments["White Flag"] = {
+	Rarity = "Equipment",
+	Quote = "Place a white flag that disables skill usage in an area.",
+	Desc = "Place a white flag that {{Color|u|disables skill usage}} within {{Color|u|25m}}. Lasts {{Color|u|15 seconds}}.",
+	ID = "WhiteFlag",
+	Cooldown = 45,
+	LocalizationInternalName = "SS2_EQUIP_WHITEFLAG",
+	Expansion = "S2",
+	}
