@@ -124,8 +124,8 @@ challenges["Nemesis Mercenary: Turncoat"] = {
 	Desc = "As Nemesis Mercenary, defeat a different vestige.",
 	}
 challenges["Captain: Grand Mastery"] = {
-	Type = "",
-	Unlock = { "" } ,
+	Type = "Skins",
+	Unlock = { "Prestige" } ,
 	Desc = "As Captain, beat the game or obliterate on Typhoon or Harder.",
 	}
 challenges["Chirr: Mastery"] = {
@@ -134,18 +134,18 @@ challenges["Chirr: Mastery"] = {
 	Desc = "As Chirr, beat the game or obliterate on Monsoon or harder.",
 	}
 challenges["Commando: Grand Mastery"] = {
-	Type = "",
-	Unlock = { "" } ,
+	Type = "Skins",
+	Unlock = { "Nostalgic" } ,
 	Desc = "As Commando, beat the game or obliterate on Typhoon or Harder.",
 	}
 challenges["Commando: Lone Echo"] = {
-	Type = "",
-	Unlock = { "" } ,
+	Type = "Skins",
+	Unlock = { "Stealth" } ,
 	Desc = "As Commando, defeat Commando's Vestige.",
 	}
 challenges["Acrid: Grand Mastery"] = {
-	Type = "",
-	Unlock = { "" } ,
+	Type = "Skins",
+	Unlock = { "Weapon" } ,
 	Desc = "As Acrid, beat the game or obliterate on Typhoon or Harder.",
 	}
 challenges["Executioner: Grand Mastery"] = {
@@ -159,13 +159,13 @@ challenges["Executioner: Mastery"] = {
 	Desc = "As Executioner, beat the game or obliterate on Monsoon or harder.",
 	}
 challenges["Huntress: Grand Mastery"] = {
-	Type = "",
-	Unlock = { "" } ,
+	Type = "Skins",
+	Unlock = { "Clandestine" } ,
 	Desc = "As Huntress, beat the game or obliterate on Typhoon or Harder.",
 	}
 challenges["Mercenary: Vengeful Deserter"] = {
-	Type = "",
-	Unlock = { "" } ,
+	Type = "Skins",
+	Unlock = { "Heel" } ,
 	Desc = "As Mercenary, defeat Mercenary's Vestige.",
 	}
 challenges["Nemesis Commando: Grand Mastery"] = {

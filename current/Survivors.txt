@@ -154,3 +154,22 @@ survivors["Nemesis Commando"] = {
 	Unlock = "Lone Echo",
 	Expansion = "S2",
 	}
+survivors["Pyro"] = {
+	Name = "Pyro",
+	Image = "Pyro.png",
+	BaseHealth = 130,
+	ScalingHealth = 39,
+	BaseDamage = 12,
+	ScalingDamage = 2.4,
+	BaseHealthRegen = 1,
+	ScalingHealthRegen = 0.2,
+	BaseSpeed = 7,
+	BaseArmor = 0,
+	Description = "The Pyro is a survivor who excels in crowd control, torching pests with fury and precision.",
+	Umbra = "Professional Ecocide",
+	PhraseEscape = "..and so he left, his heart burning with passion.",
+	PhraseVanish = "..and so he vanished, flames finally snuffed out.",
+	Mass = 100,
+	LocalizationInternalName = "SS2_PYRO",
+	Color = "#D78326",
+	}

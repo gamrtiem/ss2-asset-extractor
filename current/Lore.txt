@@ -20,7 +20,7 @@ lore["Items"] = {
 	}
 lore["Items"] = {
 	Type = "Cryptic Source",
-	Desc = "Awesome Lore",
+	Desc = "",
 	}
 lore["Items"] = {
 	Type = "DebuffMissiles",
@@ -96,7 +96,7 @@ lore["Items"] = {
 	}
 lore["Items"] = {
 	Type = "Man-o'-War",
-	Desc = "cute care instructions or something",
+	Desc = "",
 	}
 lore["Items"] = {
 	Type = "Low Quality Speakers",
@@ -124,7 +124,7 @@ lore["Items"] = {
 	}
 lore["Items"] = {
 	Type = "Neurotoxin Gland",
-	Desc = "wawa",
+	Desc = "",
 	}
 lore["Items"] = {
 	Type = "Portable Reactor",
@@ -184,7 +184,7 @@ lore["Items"] = {
 	}
 lore["Items"] = {
 	Type = "Sticky Overloader",
-	Desc = "wawa",
+	Desc = "",
 	}
 lore["Items"] = {
 	Type = "Stirring Soul",
@@ -250,6 +250,14 @@ lore["Survivor"] = {
 	Type = "Nemesis Commando",
 	Desc = "He lays to rest by a fire, setting the weapons he carries within an arm's reach. Checking his surroundings, hoping the cave he hid in would be enough shelter. Some would say it is not wise to be overly cautious. He would say, <link=\"textShaky\">they have not seen enough</link>.\n\nThe service pistol he got when he enlisted. Well used, dirtied, and loved. It's brought him through thick and thin, no matter the circumstance. Some would say that only a fool would trust their weapon. He would say, <link=\"textShaky\">your weapon is all you can trust.</link>\n\nThe blade of a fallen brother of war. Picked from what he could scavenge of the last of humanity he's seen. Some would say it keeps their spirits united. He would say, <link=\"textShaky\">it keeps their spirits from joining for as long as possible.</link>\n\nThe loads of cargo that landed with him. Each item picked from a chest, keeping him alive in one way or another. Dozens of shipments to anyone but him. Some would say they aren't his to take. He would say, <link=\"textShaky\">if he doesn't take them, then no one else will</link>.\n\nThe glow of a violet light coming from deeper within the cave. Calming, warming... beckoning. Welcoming him deeper and deeper, promising safety. Some would say that what sounds too good to be true usually is. He would say, <link=\"textWavy\">Faust was a wise man</link>.",
 	}
+lore["Survivor"] = {
+	Type = "Pyro",
+	Desc = "Buzzing, buzzing, and more buzzing. As they tried to go over the final details of the job, the droning of insect wings was the only sound to break through - but it didn’t matter. The job was simple, and he knew how to see it through properly. The woman in the hardhat proceeded back to the port as the man in polymeric fibers equipped a sizable weapon from his back. Clutching it firmly in one hand, he used the other to manage the cargo bay doors, bracing himself for the swarm within.\n\nA suffocating miasma of acid filled the air as the doors slid open. If not for his respirator, the fumes would’ve been unbearable, toxic enough to knock him out within minutes. The thick air was populated with countless giant green bugs, busily flying between corroded containers and the hive structures they’d built between them. Their incessant droning drowned out his thoughts - just the way he liked it. None of the insects took notice of the intruder until a torrent of napalm exploded into a blaze. \n\nWarriors descended as workers scattered, though it was too late for all of them. The ones quick enough to form an offense merely hastened their demise, falling to his feet as the fire devoured them. Napalm clung indiscriminately to nest, pest, and security chest alike as he slowly weaved his way between the labyrinth of cargo that laid out the foundations of the lair. Black smoke began to fill the bay, thickening with each step he took, while the ground piled high with charred remains. More than anything, though, it was the heat - the relentless, searing heat of his cleaning flames - that filled the room. Shipping containers turned into furnaces, and the bay a graveyard as he systematically purged the infestation.\n\nHours later, little was left but the acrid stench of decay, the occasional mandible or thorax, and a fine layer of ash carpeting the floor. After a third lap around the bay, he finally found what he’d been searching for, stashed away behind cracked container doors in the darkest corner of the room: an unharmed nest of eggs. He chuckled to himself, closing the cracked door and submerging the eggs back into darkness. As the large bay doors slammed shut, the woman in the helmet wrinkled her nose, handing him payment for a job well done. And a job well done it was - one hundred percent of the live bugs reduced to an easy clean-up.\n\nAs he left the dock, he thought about the bonus he’d claimed for himself: the eggs, healthily growing in their ideal conditions, where regulation couldn’t look until it was too late. There would never be a job as enjoyable as them.",
+	}
+lore["Monsters"] = {
+	Type = "Archer Bug",
+	Desc = "",
+	}
 lore["Monsters"] = {
 	Type = "Clay Monger",
 	Desc = "These are literally pets and livestock of people who fell to the tar... you monster... :c",
@@ -261,10 +269,6 @@ lore["Monsters"] = {
 lore["Monsters"] = {
 	Type = "Wayfarer",
 	Desc = "LITTLE ONES, GATHER HERE TO ME. I MUST WARN YOU OF SOMETHING.\n\n...\n\nTHE TRAVELER HAS RETURNED TO THIS REALM.\n\nLONG AGO, I SUBDUED HIM, BANISHED HIM FROM OUR GARDEN. BUT NOW, HE THREATENS OUR HOME ONCE AGAIN.\n\nIF YOU SEE HIM, DO NOT LISTEN TO HIM. HE WILL TRY TO SWAY YOU TO HIS SIDE, WITH PROMISES OF WARMTH AND SAFETY AND STRENGTH.\n\nIT IS A TRAP.\n\nONCE HE HAS YOUR TRUST, YOU WILL BE A SLAVE TO HIS LIGHT. YOU WILL BEAR YOUR OWN CHAINS, JUST AS HE BEARS HIS OWN.\n\n...\n\nBUT - DO NOT WORRY. I WILL PROTECT THE GARDEN. IF HE HAS THE AUDACITY TO RETURN TO ME, THAT IS.\n\nAS FOR YOU, LITTLE ONES, I HAVE A GIFT FOR EACH AND EVERY ONE OF YOU. COME CLOSER.\n\nCLOSER NOW!\n\nNOW, WATCH - WATCH HERE. WATCH MY HAND.\n\nYOU ALL WILL HELP ME TEND TO THE GARDEN.",
-	}
-lore["Monsters"] = {
-	Type = "Security Chest",
-	Desc = "\"Now, I'd like to see this as something of a learning experience, all things considered. Evolutionary biology has a curious place for mimicry, my friend- certain creatures seek not to be threatening or inviting by their own merit, but rather by the means of seeming to be a different thing entirely. Of course, evolution being random means that this isn't what we're dealing with-\"\n\n\"It’s also not what we're dealing with because-\"\n\n\"No no, let me finish. In this case we have a very fascinating example, don't we? A machine emulating another machine in such an animated way, as a means to trick us into getting close- why, it's positively Wicklerian in design, isn't it? Whoever made this thing really had a heart for it, don't you think?\"\n\n\"...Dude, it just steals shit. Nothin' fancy about it.\"\n\n\"Nature really is beautiful, even in a place like this.\"\n\n\"Shut up and let’s keep moving. Ugh, god, why'd I have to get stuck with this guy?\"\n\n-Signal echoes, UES Contact Light",
 	}
 lore["Monsters"] = {
 	Type = "Security Chest",
